@@ -1,0 +1,22 @@
+# XGBoost README
+
+./README
+    This file
+
+./XGBoost.ipynb
+    Implementation of XGBoost
+
+./prediction_grid.csv
+    The best prediction file submitted of XGBoost
+
+./training_data_complete_5.csv
+    Training features
+
+./training_data_labels.csv
+    Training labels
+
+./testing_data_complete_5.csv
+    Testing features
+
+./testing_alert_key_5.csv
+    Alert key of testing set
